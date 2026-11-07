@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="132" viewBox="0 0 840 132" role="img" aria-label="60% faster load times, 80% shorter setup cycles, 50% faster debugging, 4+ years shipping to production">
+  <style>
+    .big { font: 800 34px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #38bdf8; }
+    .label { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #f0f6fc; }
+    .sub { font: 400 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e; }
+    .tile { animation: rise 700ms ease-out backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g class="tile" style="animation-delay:0ms">
+    <rect x="0.5" y="0.5" width="198.5" height="131" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="99.75" y="56" class="big" text-anchor="middle">60%</text>
+    <text x="99.75" y="84" class="label" text-anchor="middle">faster load times</text>
+    <text x="99.75" y="106" class="sub" text-anchor="middle">micro-frontend platform</text>
+  </g>
+  <g class="tile" style="animation-delay:140ms">
+    <rect x="214" y="0.5" width="198.5" height="131" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="313.25" y="56" class="big" text-anchor="middle">80%</text>
+    <text x="313.25" y="84" class="label" text-anchor="middle">shorter setup cycles</text>
+    <text x="313.25" y="106" class="sub" text-anchor="middle">payments module, built from zero</text>
+  </g>
+  <g class="tile" style="animation-delay:280ms">
+    <rect x="427.5" y="0.5" width="198.5" height="131" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="526.75" y="56" class="big" text-anchor="middle">50%+</text>
+    <text x="526.75" y="84" class="label" text-anchor="middle">faster debugging</text>
+    <text x="526.75" y="106" class="sub" text-anchor="middle">observability for legacy SaaS</text>
+  </g>
+  <g class="tile" style="animation-delay:420ms">
+    <rect x="641" y="0.5" width="198.5" height="131" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="740.25" y="56" class="big" text-anchor="middle">4+ yrs</text>
+    <text x="740.25" y="84" class="label" text-anchor="middle">shipping to production</text>
+    <text x="740.25" y="106" class="sub" text-anchor="middle">intern → SDE-II, 5 roles</text>
+  </g>
+</svg>
