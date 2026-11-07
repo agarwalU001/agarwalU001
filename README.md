@@ -6,7 +6,7 @@
 
 <a href="https://utkarsh-agarwal.me"><img src="https://img.shields.io/badge/utkarsh--agarwal.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/utkarsh001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS40YzAtMS4zLS4wMi0yLjk1LTEuOC0yLjk1LTEuOCAwLTIuMDcgMS40LTIuMDcgMi44NlYyMUg5eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/utkarsh_001"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/coldblood001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:agarwalutkarsh001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
